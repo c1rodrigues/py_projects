@@ -2,7 +2,7 @@
 
 >status: Em desenvolvimento
 
->Linguagem: Python
+>Linguagem: Python 3
 
 ```
 pip install pandas
